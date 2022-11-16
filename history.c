@@ -1,3 +1,5 @@
+#include "shell.h"
+
 /**
  * read_history - reads history from file
  * @info: the parameter struct
